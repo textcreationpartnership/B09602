@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No Parliament, no penny. Or, The souldier convinced, that there can be no money levied, upon what pretence soever, without the Parliament sit again. At a conference between an honest souldier, and a plain countreyman. In which is likewise discovered, that the warr which is making against General Monck, is for no other cause, then his faithful standing up for his master the Parliament. Together, with a resolution of the souldiers, to set open the Parliament doors, that the members may sit again, to discharge the trust committed to them by God and man.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09602</idno><idno type="EEBO-CITATION">80923251</idno>
+  <idno type="VID">191934</idno>
+  <idno type="EEBO-PROQUEST">2240864273</idno>
+  
+            <idno type="OCLC"> 80923251</idno>
+            <idno type="STC">Wing N1185A</idno>
+            <idno type="STC">ESTC R223192</idno>
+            <idno type="OCLC">80923251</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191934)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No Parliament, no penny. Or, The souldier convinced, that there can be no money levied, upon what pretence soever, without the Parliament sit again. At a conference between an honest souldier, and a plain countreyman. In which is likewise discovered, that the warr which is making against General Monck, is for no other cause, then his faithful standing up for his master the Parliament. Together, with a resolution of the souldiers, to set open the Parliament doors, that the members may sit again, to discharge the trust committed to them by God and man.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for a lover of his country, and a martyr for Englands freedomes; and are to be sold at the sign of the faithful English-man, right against Tyrants Court.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[ca. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191934:1"/>
+            <pb facs="tcp:191934:1"/>
+            <pb facs="tcp:191934:2"/>
+            <pb facs="tcp:191934:2"/>
+            <p>
+               <hi>No Parliament, no Penny.</hi>
+            </p>
+            <p>OR, The <hi>SOULDIER</hi> Convinced, THAT There can be no money levied, upon what pretence soever, without the PARLIAMENT Sit again.</p>
+            <p>
+               <hi>At a Conference</hi> Between an Honest Souldier, and a Plain <hi>Countreyman.</hi>
+            </p>
+            <p>In which is likewise Discovered, That the Warr which is making against General <hi>MONCK,</hi> is for no other Cause, Then his faithful standing up for his Master the PARLIAMENT.</p>
+            <p>TOGETHER, With a <hi>Resolution</hi> of the Souldiers, to set Open the Parliament Doors, that the Members may sit again, to discharge the TRUST committed to them by God and Man.</p>
+            <p>Printed for a Lover of his Country, and a Martyr for <hi>Englands</hi> Freedomes; And are to be sold at the Sign of the faithful English-man, right against Tyrants Court.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:191934:3"/>
+            <pb n="3" facs="tcp:191934:3"/>
+            <head>A DIALOGVE BETWEEN A SOVLDIER AND AN Honest Countreyman.</head>
+            <sp>
+               <speaker>Countreyman.</speaker>
+               <p>SOuldier, If you please to slacken your pace a little, I would request you to Resolve me a few Questions.</p>
+            </sp>
+            <sp>
+               <speaker>Souldier.</speaker>
+               <p>
+                  <hi>I will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Countryman.</speaker>
+               <p>Whither are you marching?</p>
+            </sp>
+            <sp>
+               <speaker>Souldier.</speaker>
+               <p>To reduce General <hi>Monck</hi> and his Party,</p>
+            </sp>
+            <sp>
+               <speaker>Country.</speaker>
+               <p>Why, Is not <hi>Monk</hi> for the Parliament?</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:191934:4"/>
+               <speaker>Souldier.</speaker>
+               <p>Yes; and therefore are we resolved to fight him, and as much as in us lies we asperse him, and endeavour to make him odious, giving out, <hi>That he will drink too excess,</hi> and, <hi>that he is for the King.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Countryman.</speaker>
+               <p>But are these things so?</p>
+            </sp>
+            <sp>
+               <speaker>Souldier.</speaker>
+               <p>We know not; onely (according to our ac<g ref="char:EOLhyphen"/>customed manner) we asperse all we fight against.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>If you fight against the Parliaments friends, who do you fight for?</p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>For some of our Principal Officers, <hi>viz Lam<g ref="char:EOLhyphen"/>bert, Packer,</hi> and the rest of the nine Field-Officers, which the Parliament Cashier'd the Army.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>What! fight for your Officers against the Parliaments Forces! who gives you Authority?</p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>We have taken care as to that; for, having made <hi>Fleetwood</hi> our Commander in Chief, he shall give out Commissions, by which means we create a power to our selves; and what is it we by our swords cannot do? if the People will be so tame as to let us alone.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Oh! But what will you do for monies? the nerves and sinews of War?</p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Why, for that we have a Paper that past the House twice, which shall serve our present turns to raise monies by.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Then it seems that the Parliaments Authori<g ref="char:EOLhyphen"/>ty will take place among you in order to the raising of money; letting the People understand thereby, that the very talk of an Act, binds them to conform thereto: yet this may be gathered from it, That monies cannot be raised without a Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>You speak very right: but then will we make the Act void, which forbids the raising or levying of monies, but by the Consent of the People in Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:191934:4"/>
+               <speaker>Count.</speaker>
+               <p>Oh! Take heed of that; for hitherto no Ty<g ref="char:EOLhyphen"/>rant-King nor Protector, durst make invalid that Fun<g ref="char:EOLhyphen"/>damental Law, by which the Peoples Estates are secu<g ref="char:EOLhyphen"/>red.</p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Then will we get about 40 Members into the Parliament-House, and make them to abolish that Law, and provide money for us.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Then will it appear to all men, That you stand convinced in your Consciences, That y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u have acted very unadvisedly, in turning out the Parliament, with<g ref="char:EOLhyphen"/>out whom you cannot Lawfully raise a penny; and you will yet appear more odious and vile then ever in the eyes of the People; who are so wise, as not to part with any monies, but in obedience to Parliamentary Authority.</p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>You say true: but if there be no other way, we will make virtue of necessity, and take it by force.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Marry, God forbid! for then should we be as very slaves as the <hi>Turks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Why we have forcibly outed the Parliament, and made a <hi>Committee for Safety</hi> without Law, and by force made <hi>Fleetwood</hi> General; and why may we not raise money by force?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Then will you be in worse case then ever; you will be look'd upon as no better then Thieves and Felons, and as Tyrants, and not fit to live. Then look to your selvs, That you be not served as were the <hi>Danes</hi> of old.</p>
+            </sp>
+            <sp>
+               <speaker>Souldier.</speaker>
+               <p>How was that?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>The People being grievously oppressed with them, determined at a certain hour in the Night, when most of the Souldiers were asleep; That the men should rise and seize on the Guards, and the women should cut the Throats of those which were in Bed asleep; which accordingly they did.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:191934:5"/>
+               <speaker>Souldier.</speaker>
+               <p>But we will give them no such cause, we will deal Kindlier with them.</p>
+            </sp>
+            <sp>
+               <speaker>Countreyman.</speaker>
+               <p>Alas poor Souls! When you come once to Rule by the Sword, God will take away his restraining grace, as being out of his way, and give you up to a cruell Inhumane Spirit; and you will work all manner of Cruelty, still passing on from one cruell action to another, till you be hated of all, and afraid to trust one another.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>But I warrant you, we will not do so.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Alas poor deluded souldier! your grand Officers make you slaves to their Lusts, and serve their turns upon you, when you are not aware thereof: Do but look back to the year, 1650. see and consider, how you and they have declined good princi<g ref="char:EOLhyphen"/>ples, waxing worse &amp; worse, deceiving and being deceived. How much more unchristian-like you are grown, more cruel, more prophane, more like your grand Hypocritical Officers every day then other: They themselves confessed in their Paper of <hi>April</hi> 6. 1659. when they invited the Parliament to fit again, <hi>That the Spirit of God was departed from them, and that they had wandered in the dark pathes of their Imaginations;</hi> in which they still en<g ref="char:EOLhyphen"/>deavoured to lead you.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Well, if things are so, I confess our condition is sad: Therefore do I resolve to follow your Christian-like counsel, if you please to tell me what to do.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>First, consider the great sinfulness of your ways. Second<g ref="char:EOLhyphen"/>ly, the misery you bring upon your selves and Families: Can you endure to have your bones broken, your Children made father<g ref="char:EOLhyphen"/>less; your Wives widows; and many of your lives to be lost here; and all to be damned in Hell hereafter. Oh! consider for God's sake, for your Wives and Childrens sakes, for your Lives and Limbes sakes, and for your Soules sakes; and rather give over those Nine Officers of yours to the Mercy of the Par<g ref="char:EOLhyphen"/>liament, and re-establish them, and return to your first princi<g ref="char:EOLhyphen"/>ples; and leave not the Brand of a Mercenary, Cruel, Murther<g ref="char:EOLhyphen"/>ous Army upon your selves.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Sithence you have told me that I thought not of, I will follow your counsel; for I see you are a good Christian, &amp; love the peace and welfare of your Countrey, and good of all men,
+<pb n="7" facs="tcp:191934:5"/> and would not have our Bodies nor our Soules made miserable here or in the world to come, and that you are a constant <hi>Eng<g ref="char:EOLhyphen"/>lish</hi>-man.</p>
+            </sp>
+            <sp>
+               <speaker>Count,</speaker>
+               <p>Truly, I wish you peace here, and Eternal Happiness hereafter, and would not have you by your Officers be drawn in to sinful coutses, by which the Nation should be made poor, and so you want your <hi>pay</hi> as you do.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Well! I will tell all Fellow-souldiers and Officers what you say, &amp; will perswade them to take their <hi>Force</hi> off from our Masters the Parliament, and let them sit again in peace, and we will deliver up all those Nine Men, as <hi>Kelsie</hi> and the rest, to their Mercy, which have rebelled against them, whom we ac<g ref="char:EOLhyphen"/>knowledged to be the <hi>Supreme Authority</hi> of the Nation, that no more bloud be shed in vain.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You will do like a good Christian, and like a valiant Souldier, if you do so.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>But how do you think the Parliament will deal with these men <hi>(viz.) Lambert, Kelsie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You know the <hi>Parliament</hi> are very ready to forgive: you know they gave them an <hi>Act of Pardon</hi> the other day, for as bad matters as they have done now; yea, for five years Cruel<g ref="char:EOLhyphen"/>ty, in keeping them out, and setting up <hi>Cromwel.</hi> Do not fear but the Parliament will be kind to them, and to all the Nation. There needs nothing to be done, but to set open the Parliament door, and they will sit again.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Well Sir, I will do my uttermost to get all my fellow souldiers to be of my mind.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>If you please, I will write these things, and you shall shew it them.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>I thank you Sir, and I am the rather desirous you would do it quickly; for I call to mind that all Trade is decayed, and the Nation is impoverished, by reason of these many Charges we have had, and our Enemies grow very high upon us, we cannot get our pay so constant as we had when the Parliament sat before: They (indeed) were our best Masters; they allowed us 5 <hi>s.</hi> 10 <hi>d.</hi> a week all their time; and our <hi>pay</hi> was never lessened, till they were turned out.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:191934:6"/>
+               <speaker>Count.</speaker>
+               <p>You say true: But consider also, that Religion and all is at the stake; and Body and Soul, and all will perish, if you con<g ref="char:EOLhyphen"/>tinue to stand upon your Swords, and act like Tyrants.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Sir, I will be as good as my word.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You will do well; and I will pray to God, that you may have grace to do as you say; and that all your Fellow-soul<g ref="char:EOLhyphen"/>diers may agree with you;</p>
+            </sp>
+            <trailer>Farewel.</trailer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191934:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
